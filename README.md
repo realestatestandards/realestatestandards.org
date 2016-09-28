@@ -11,6 +11,10 @@ The following are currently known projects to improve standards within the Real 
 * [Lead Meta Data](http://www.leadmetadata.org/)
 
 ## Needed Projects
+Below is a list of projects we would like to see take off.
 
 ### HTTPS Everywhere
 Many MLS providers, IDX Providers, and Real Estate Websites are not HTTPS by default. We need a project going to track sites that do and do not use HTTPS. As of January 2016 HTTPS is even more important.
+
+### Public MLS Directory
+A public open source list of all MLS Boards, ideally with support for an API. 
