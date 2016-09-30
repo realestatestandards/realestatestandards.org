@@ -6,6 +6,7 @@ A site dedicated to improving Real Estate Standards.
 The following are currently known projects to improve standards within the Real Estate industry.
 
 * [RESO](http://www.reso.org/)
+* [OSCRE](http://www.oscre.org/)
 * [Fair Display](http://fairdisplay.org/)
 * [Real Estate](https://github.com/schemaorg/schemaorg/issues/241) for [schema.org](https://schema.org)
 * [Lead Meta Data](http://www.leadmetadata.org/)
